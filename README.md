@@ -1,8 +1,8 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-
-\
-
+![Last Commit](https://img.shields.io/github/last-commit/sakshamenv/cse103-lab-LAB3)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Overview
 
@@ -13,7 +13,7 @@ The project demonstrates practical Git and GitHub operations, repository managem
 ## Repository Structure
 
 ```text
-YOUR_REPOSITORY_NAME/
+cse103-lab-LAB3/
 │
 ├── README.md              # Project documentation
 ├── MARKDOWN_GUIDE.md      # Markdown syntax reference
@@ -24,13 +24,13 @@ YOUR_REPOSITORY_NAME/
 
 ## Skills Demonstrated
 
-| Skill                  | Status    |
-| ---------------------- | --------- |
-| Git initialisation     | Completed |
-| Meaningful commits     | Completed |
-| Remote push / pull     | Completed |
+| Skill | Status |
+|---|---|
+| Git initialisation | Completed |
+| Meaningful commits | Completed |
+| Remote push / pull | Completed |
 | Markdown documentation | Completed |
-| API interaction        | Completed |
+| API interaction | Completed |
 
 ## How to Run
 
@@ -70,6 +70,6 @@ python3 main.py
 
 ---
 
-**Course:** Computer Fundamentals & Career Pathways (CSE103)
-**Institution:** K.R. Mangalam University
+**Course:** Computer Fundamentals & Career Pathways (CSE103)  
+**Institution:** K.R. Mangalam University  
 **Lab:** LAB 3 — GitHub Collaboration & API Interaction
